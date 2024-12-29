@@ -3,6 +3,7 @@ __pycache__/
 *.py[cod]
 *.pyo
 *.csv
+*.pkl
 
 # Environment files
 .env
