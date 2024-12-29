@@ -1,0 +1,65 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.csv
+
+# Environment files
+.env
+.venv/
+env/
+venv/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+.virtual_documents/
+
+# Log files
+*.log
+*.out
+*.err
+
+# TensorFlow-specific files
+checkpoint
+*.ckpt
+*.pb
+*.pbtxt
+*.tflite
+events.out.tfevents.*
+
+# Model files
+*.h5
+*.hdf5
+*.onnx
+Random_forest_model.pkl
+
+# Dataset files
+# *.csv
+*.tsv
+*.data
+*.record
+*.txt
+
+# Large files
+*.tar.gz
+*.zip
+
+# Cache and temporary files
+*.bak
+*.tmp
+*.temp
+*.swp
+*.swo
+*.DS_Store
+
+# VS Code specific files
+.vscode/
+
+# PyCharm specific files
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
