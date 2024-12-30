@@ -1,6 +1,6 @@
 # PhishNet: Phishing URL Detection System
 
-![Python](https://img.shields.io/badge/Python-3.8-blue?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Framework-red?style=for-the-badge&logo=streamlit&logoColor=white)
 ![RandomForest](https://img.shields.io/badge/Model-Random_Forest-green?style=for-the-badge)
 
